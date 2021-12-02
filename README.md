@@ -1,4 +1,7 @@
-## Projetos de Ciencia de Dados
+## Projeto de Ciencia de Dados
 Autor: Gustavo Duarte e Silva
 
-##### 1° PyProjectData: Realizar Previsão De Emissão de CO2
+### Objetivo:
+Realizar um estudo de ML, verificando se o tamanho do motores dos veiculos afetam diretamente na emissao de CO2 na atmosfera.
+### Dados:
+Os dados foram obtidos do Kaggle
